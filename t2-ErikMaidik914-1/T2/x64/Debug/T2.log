@@ -1,0 +1,19 @@
+﻿  car.cpp
+C:\Users\Erik\source\repos\t2-ErikMaidik914-1\T2\car.cpp(10,30): error C3867: 'Car::bodyStyle': non-standard syntax; use '&' to create a pointer to member
+C:\Users\Erik\source\repos\t2-ErikMaidik914-1\T2\car.cpp(10,21): error C2446: '==': no conversion from 'const char [6]' to 'std::string (__cdecl Car::* )(void)'
+C:\Users\Erik\source\repos\t2-ErikMaidik914-1\T2\car.cpp(10,23): message : There is no context in which this conversion is possible
+C:\Users\Erik\source\repos\t2-ErikMaidik914-1\T2\car.cpp(12,1): error C2059: syntax error: '}'
+  electricengine.cpp
+C:\Users\Erik\source\repos\t2-ErikMaidik914-1\T2\electricengine.h(13,54): error C2512: 'Engine': no appropriate default constructor available
+C:\Users\Erik\source\repos\t2-ErikMaidik914-1\T2\engine.h(6,7): message : see declaration of 'Engine'
+C:\Users\Erik\source\repos\t2-ErikMaidik914-1\T2\electricengine.cpp(6,24): error C2511: 'double ElectricEngine::getPrice(void)': overloaded member function not found in 'ElectricEngine'
+C:\Users\Erik\source\repos\t2-ErikMaidik914-1\T2\electricengine.h(7,7): message : see declaration of 'ElectricEngine'
+  engine.cpp
+C:\Users\Erik\source\repos\t2-ErikMaidik914-1\T2\engine.cpp(16,2): error C2440: 'return': cannot convert from 'std::stringstream' to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\Erik\source\repos\t2-ErikMaidik914-1\T2\engine.cpp(16,2): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+  main.cpp
+C:\Users\Erik\source\repos\t2-ErikMaidik914-1\T2\main.cpp(9,10): warning C4101: 'service': unreferenced local variable
+  service.cpp
+  turboengine.cpp
+  ui.cpp
+  Generating Code...
