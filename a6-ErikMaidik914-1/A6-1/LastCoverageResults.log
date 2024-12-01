@@ -1,0 +1,21 @@
+[2023-06-08 15:31:06] [info] Start Program:
+Path:"C:\Users\Erik\source\repos\a6-ErikMaidik914-1\A6-1\x64\Debug\A6-1.exe"
+Arguments:
+Working directory: "C:\Users\Erik\source\repos\a6-ErikMaidik914-1\A6-1\"
+Modules: Selected: C:\Users\Erik\source\repos\a6-ErikMaidik914-1\A6-1\x64\Debug\A6-1.exe Excluded: 
+Sources: Selected: C:\Users\Erik\source\repos\a6-ErikMaidik914-1\A6-1 Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\Erik\AppData\Local\Temp\0o4bvluw.p5g 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2023-06-08 15:31:07] [info] Module: C:\Users\Erik\source\repos\a6-ErikMaidik914-1\A6-1\x64\Debug\A6-1.exe is selected because it matches selected pattern: C:\Users\Erik\source\repos\a6-ErikMaidik914-1\A6-1\x64\Debug\A6-1.exe
+[2023-06-08 15:31:07] [info] ----------------------------------------------------
+[2023-06-08 15:31:07] [info] Coverage binary generated in file: C:\Users\Erik\AppData\Local\Temp\0o4bvluw.p5g
+[2023-06-08 15:31:07] [info] ----------------------------------------------------
