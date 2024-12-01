@@ -1,0 +1,11 @@
+﻿  repository.c
+C:\Users\Erik\source\repos\23A\23A\repository.c(16,10): warning C4101: 'country9': unreferenced local variable
+C:\Users\Erik\source\repos\23A\23A\repository.c(17,10): warning C4101: 'country10': unreferenced local variable
+C:\Users\Erik\source\repos\23A\23A\repository.c(10,10): warning C4101: 'country3': unreferenced local variable
+C:\Users\Erik\source\repos\23A\23A\repository.c(12,10): warning C4101: 'country5': unreferenced local variable
+C:\Users\Erik\source\repos\23A\23A\repository.c(11,10): warning C4101: 'country4': unreferenced local variable
+C:\Users\Erik\source\repos\23A\23A\repository.c(14,10): warning C4101: 'country7': unreferenced local variable
+C:\Users\Erik\source\repos\23A\23A\repository.c(15,10): warning C4101: 'country8': unreferenced local variable
+C:\Users\Erik\source\repos\23A\23A\repository.c(13,10): warning C4101: 'country6': unreferenced local variable
+C:\Users\Erik\source\repos\23A\23A\repository.c(9,10): warning C4101: 'country2': unreferenced local variable
+  23A.vcxproj -> C:\Users\Erik\source\repos\23A\x64\Debug\23A.exe
